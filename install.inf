@@ -1,0 +1,12 @@
+[info]
+title=Repro: Editor links
+desc=(Fill the description)
+type=cudatext-plugin
+subdir=cuda__repro_ed_links
+homepage=https://github.com/halfbrained/cuda__repro_ed_links
+
+[item2]
+section=commands
+caption=_Repro: Editor links\Embed Editor
+method=run
+
